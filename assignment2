@@ -1,0 +1,202 @@
+<!doctype html>
+<html>
+  <head>
+<link href="New folder\css\all" rel="stylesheet">
+    <title>IIIT Kota</title>
+<style>
+.end{
+background-color:red;
+color:white;
+}
+.twitter{
+align:center;
+color:white;
+}
+table{
+background-color:LightSalmon;
+border:3px solid red;
+border-collapse:collapse;
+}
+th,td{
+padding:8px;
+font-size:35px;
+}
+th{
+color:red;
+}
+body{
+background-color:LemonChiffon;
+}
+p{
+font-size:30px;
+font-family:'Ubuntu';
+line-height:1.5em;
+}
+#heading1{
+color: Crimson;
+ font-size: 67px;
+ text-align: center; 
+fontweight: bold;
+background-color:burlywood;
+}
+.heading{
+color:red;
+font-size: 45px;
+line-height:0.0001em;
+}
+.btn{
+font-size:20px;
+backgroundb-color:beige;
+padding:8px;
+cursor:pointer;
+}
+.navbar{
+background-color:tomato;
+}
+.navbar ul{
+overflow:auto;
+}
+.navbar li{
+font-size:35px;
+float:left;
+list-style:none;
+padding-left:60px ;
+padding-right:60px;
+}
+.box{
+background-color:PapayaWhip;
+display:inline-block;
+border:5px solid IndianRed;
+border-radius:20px;
+width:370px;
+height:200px;
+margin:2px;
+}
+#box1{
+color:red;
+text-align:center;
+display:inline-block;
+padding:20px;
+}
+#box2{
+text-align:center;
+color:red;
+display:inline-block;
+padding:20px;
+}
+#box3{
+text-align:center;
+color:red;
+display:inline-block;
+padding:20px;
+}
+.boxx{
+padding-left:78px;
+padding-right:78px;
+padding-top:30px;
+padding-bottom:30px;
+
+
+}
+
+</style>
+</head>
+<body>
+<h1 id="heading1">Indian Institute Of Information Technology Kota</h1>
+<center>
+<hr>
+<nav class="navbar">
+<ul>
+<li>Home</li>
+<li>About</li>
+<li>Administration</li>
+<li>Academics</li>
+<li>People</li>
+</ul>
+<img src="https://iiitkota.ac.in/static/media/logo.b831a251.png" alt="description" style="float:right" width="300" height="300">
+</center>
+<br>
+<p>Indian Institute of Information Technology, Kota (IIIT, Kota) is an institute of national importance. IIIT Kota is
+ a joint venture of the Ministry of Education (MoE) Govt. of India and Govt. of Rajasthan with Industry Partners in
+ Public-Private-Partnership (PPP) model. IIIT Kota was established in 2013. Currently, the institute is mentored by
+ Malaviya National Institute of Technology Jaipur (MNIT Jaipur) and is situated at MNIT Jaipur. The main site of IIIT, 
+Kota shall be constructed at Ranpur near Kota on 100.37 acres of land made available by the Govt. of Rajasthan.</p>
+<img src="https://mnit.ac.in/about_us/images/5.JPG" alt="description" width="482" height="300">
+<img src="https://iiitkota.ac.in/static/media/4.d00af0f8.png" alt="description"  width="482" height="300">
+<img src="https://alumni.mnit.ac.in/assets/images/vltc.png" alt="description" width="482" height="300">
+<h4 class="heading">Admission</h4>
+<p>For taking admission in IIIT Kota, you should know some details of the procedure and fees.</p>
+<h5 class="heading">Procedure</h5>
+<p>1)Institute reporting for B.Tech admission is for all candidates. Either they got their seat through JoSAA-2021 or CSAB-2021.
+<br>
+2)It is mandatory for every candidate, who wish to take admission in IIIT Kota, to pay the remaining Institute Fee.
+</p>
+<h5 class="heading"">Fees</h5>
+<p >For detailed institute fee structure, refer the link below:</p>
+</body>
+<button class="btn">APPLY FOR ADMISSION</button>
+<br>
+<div class="boxx">
+<div class="box" id="box1">
+<h3>STUDENTS ACHIEVEMENTS</h3>
+<p style="font-size:15px;">With one of the best academic curriculum in India, our students continually take part in renowned programming 
+and robotics competitions like ACM ICPC, Google Hash Code, e-Yantra, and various hackathons, including national-level
+hackathons like Smart India Hackathon, and have always made their presence felt by performing great.</p>
+</div>
+<div class="box" id="box2">
+<h3>FINEST CURRICULUM</h3>
+<p style="font-size:15px;">The Institute offers undergraduate programs in Computer Science & Engineering and Electronics & Communications Engineering. IIIT Kota
+ is well connected with peer institutes and industries to enhance research and development, and enrich its educational programs. peer institutes and industries to
+ enhance research and development</p>
+</div>
+<div class="box" id="box3">
+<h3>INDUSTRIAL EXPERIENCE</h3>
+<p style="font-size:15px;"> Summer training and internships offer students an insight into how things work in a professional
+ space. They help students acquaint themselves with the real-world application of the technologies. This exposure helps students to deliver their 
+best when they join the industry as working professionals.</p>
+</div>
+</boxx>
+<br>
+
+
+
+<h3 style="color:crimson; font-size: 50px; text-align: center; fontweight:bold; "> PLACEMENT DETAILS</h3>
+<table align="center">
+<thead>
+<tr>
+<th>BRANCH</th>
+<th>MAXIMUM PACKAGE</th>
+<th>AVERAGE PACKAGE</th>
+<th>PLACEMENT%<th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CSE</td>
+<td>82 LPA</td>
+<td>15.6 LPA</td>
+<td>94.85%</td>
+</tr>
+<tr>
+<td>ECE</td>
+<td>63 LPA</td>
+<td>12.9 LPA</td>
+<td>80.95%</td>
+</tr>
+<tr>
+<td>TOTAL</td>
+<td>82 LPA</td>
+<td>14.9 LPA</td>
+<td>90.65%</td>
+</tr>
+</tbody>
+</table>
+<br>
+<div class="end">
+<p>office@iiitkota.ac.in</p>
+<br>
+<p>contact:0141-2715071</p>
+</div>
+</body>
+</html>
+
